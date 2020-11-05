@@ -1,0 +1,3 @@
+ptvsd
+django-debug-toolbar
+customizable-django-profiler
